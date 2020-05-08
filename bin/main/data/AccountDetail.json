@@ -1,0 +1,20 @@
+{
+"customerDetail":[
+{
+  "accountNumber":"585309209",
+  "accountName":"SGSavings726",
+  "accountType":"Savings",
+  "balanceDate":"08/11/2018",
+  "currency":"SGD",
+  "openingAvailableBalance":"84327.51"
+},
+{
+  "accountNumber":"791066619",
+  "accountName":"AUSavings933",
+  "accountType":"Savings",
+  "balanceDate":"08/11/2018",
+  "currency":"AUD",
+  "openingAvailableBalance":"88005.93"
+}
+]
+}

@@ -1,0 +1,24 @@
+{
+"customerTransactionHistory":[
+{
+  "accountNumber":"585309210",
+  "accountName":"SGSavings726",
+  "valueDate":"Jan, 12, 2012",
+  "currency":"SGD",
+  "debitAmount":"",
+  "creditAmount":"9540.98",
+  "transactionType":"credit",
+  "transactionNarrative":""
+},
+{
+  "accountNumber":"585309210",
+  "accountName":"SGSavings726",
+  "valueDate":"Jan, 12, 2012",
+  "currency":"SGD",
+  "debitAmount":"",
+  "creditAmount":"7497.82",
+  "transactionType":"credit",
+  "transactionNarrative":""
+}
+]
+}
